@@ -6,6 +6,6 @@
 		"movement": 2,
 		"cost": 200,
 		"requiredTech": "Education"
-		"uniques":"[Founds a new city <for [1] movement>"],
+		"uniques":"[Founds a new city <for [1] movement>"
 	}
 ]
